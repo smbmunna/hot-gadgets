@@ -1,4 +1,6 @@
-
+.container{
+    margin-bottom: 50px;
+}
 .navbar{
     padding-top: 35px;
 }
@@ -8,15 +10,11 @@
     border-radius: 9px;
     padding: 8px 25px;
 }
-.card {
-    margin: 0 auto; /* Added */
-    float: none; /* Added */
-    margin-bottom: 10px; /* Added */
-}
 .card{
     padding: 50px 30px;
     border: none;
     box-shadow: 2px 2px 30px whitesmoke;
+    border-radius: 15px;
 }
 .smartphone-head{
     margin-bottom: 40px;
