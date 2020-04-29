@@ -1,0 +1,31 @@
+
+.navbar{
+    padding-top: 35px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    padding: 8px 25px;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+.card{
+    padding: 50px 30px;
+    border: none;
+    box-shadow: 2px 2px 30px whitesmoke;
+}
+.smartphone-head{
+    margin-bottom: 40px;
+}
+.see-all-txt{
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
